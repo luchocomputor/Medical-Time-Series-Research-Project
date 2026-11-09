@@ -16,7 +16,7 @@ Research project at École des Ponts (November 2024 to August 2025), with resear
 ## Outputs
 
 - **Poster** at the 4th International Summer Institute on Network Physiology (ISINP 2025), Lake Como School of Advanced Studies, July 2025 · [POSTER.pdf](POSTER.pdf)
-- **Preprint**, first author: *Temporal variability of spectral Granger causality from electroencephalograms during sleep: a time-frequency approach* · [HAL](https://hal.science/hal-05377253) · [manuscript](PAPER.pdf)
+- **Working paper**, first author: *Temporal variability of spectral Granger causality from electroencephalograms during sleep: a time-frequency approach* · [HAL](https://hal.science/hal-05377253) · [manuscript](PAPER.pdf)
 
 ## Data
 
